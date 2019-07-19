@@ -5,7 +5,7 @@
     <masterLabel>Hello World</masterLabel>
     <description>Add a classic greeting to any page.</description>
     <targets>
-        <target>Lightning__AppPage</target>
+        <target>lightning__AppPage</target>
     </targets>
     <targetConfigs>
         <targetConfig targets="lightning__AppPage">
